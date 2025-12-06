@@ -1,0 +1,5 @@
+{
+  "name": "CineSeek AI",
+  "description": "A semantic movie discovery engine powered by React 19 and the Gemini 2.5 Flash API. It distinguishes between specific title lookups and abstract 'vibe' searches to generate structured JSON recommendations, replacing traditional keyword matching with LLM-based intent understanding.",
+  "requestFramePermissions": []
+}
